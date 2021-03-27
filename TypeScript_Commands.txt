@@ -2,7 +2,7 @@
 tsc filename.ts(extension optional);
 example tsc HelloWorld.ts
 
-node filename.ts(extension optional);
+node filename.ts;
 
 tsc filename --watch
 tsc HelloWorld --watch
